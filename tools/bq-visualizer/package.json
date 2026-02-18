@@ -13,9 +13,9 @@
   "dependencies": {
     "@angular/animations": "~12.2.13",
     "@angular/cdk": "~12.2.12",
-    "@angular/common": "^12.0.0",
-    "@angular/compiler": "^12",
-    "@angular/core": "~12.2.13",
+    "@angular/common": "^19.2.16",
+    "@angular/compiler": "^19",
+    "@angular/core": "~12.2.14",
     "@angular/flex-layout": "^12.0.0-beta.35",
     "@angular/forms": "~12.2.13",
     "@angular/material": "^12.2.13",
@@ -24,7 +24,7 @@
     "@angular/router": "^12",
     "@sentry/browser": "^4.5.0",
     "@types/google.visualization": "^0.0.41",
-    "ajv": "^6.10.2",
+    "ajv": "^8.18.0",
     "angular-google-chart": "^1.0.0-beta.1",
     "angular-local-storage": "^0.7.1",
     "angular-oauth2-oidc": "^12.1.0",
@@ -42,8 +42,8 @@
     "zone.js": "^0.11.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~12.2.13",
-    "@angular/cli": "^12",
+    "@angular-devkit/build-angular": "~21.1.4",
+    "@angular/cli": "^21",
     "@angular/compiler-cli": "^12.0.0",
     "@angular/language-service": "^12",
     "@tsconfig/node16": "^1.0.2",
